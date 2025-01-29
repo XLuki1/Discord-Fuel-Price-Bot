@@ -1,4 +1,44 @@
-                    GNU GENERAL PUBLIC LICENSE
+NO-SALE GPL v3.0 License  
+Copyright (C) 2025 XLuki1  
+
+This software is licensed under the GNU General Public License v3.0,  
+with the following additional conditions:  
+
+1. **No Commercial Sale**  
+   - You may **not sell, resell, or distribute this software for profit**,  
+     either in its original or modified form.  
+   - This includes bundling it with paid software or services.  
+   - Non-commercial redistribution is allowed, as long as it follows  
+     the other terms of this license.  
+
+2. **Attribution Requirement**  
+   - You must **give appropriate credit** to the original author:  
+     [XLuki1].  
+   - A link to the original project repository must be included  
+     in all copies or substantial portions of this software.  
+
+3. **GPL v3.0 Compliance**  
+   - Except for the above conditions, the original terms of  
+     the **GNU General Public License v3.0** still apply.  
+   - In particular, any modifications or derivative works  
+     **must also remain open-source under the same license**.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
@@ -672,3 +712,4 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
+
