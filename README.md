@@ -1,4 +1,4 @@
-# Discord-Fuel-Price-Bot
+
 
 
 # **Discord Fuel Price Bot**  
@@ -8,6 +8,7 @@ A Discord bot that provides real-time fuel prices for **Germany** using the **Ta
 ✅ Fetches up-to-date fuel prices for German gas stations  
 ✅ Uses the **Tankerkönig API** for accurate data  
 ✅ Simple and easy to use within Discord
+
 ❌ Need your Own API KEY
 
 ## **Setup & Installation**  
